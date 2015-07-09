@@ -1,0 +1,66 @@
+.home-header h1 {
+  color: #333;
+  letter-spacing:4px;
+  text-align:center;
+}
+
+#brand {
+  color: #3d3d3d;
+  letter-spacing:2px;
+  text-align:center;
+}
+
+
+.stories {
+  float: none;
+  display: inline-block;
+  margin-left: 45px;
+  margin-bottom: 15px;
+
+
+  text-align:center;
+}
+
+#story-1 {
+  background: url("/images/labron-james.jpg");
+  background-repeat: no-repeat;
+  height: 350px;
+  width:350px;
+  background-size: 350px 350px;
+}
+
+#story-2 {
+  background: url("/images/gitlab .png");
+  background-repeat: no-repeat;
+  height: 350px;
+  width:350px;
+  background-size: 350px 350px;
+}
+
+#story-3 {
+  background: url("/images/donald-trump.jpg");
+  background-repeat: no-repeat;
+  height: 350px;
+  width:350px;
+  background-size: 350px 350px;
+}
+
+#story-4 {
+  background: url("/images/bond.jpg");
+  background-repeat: no-repeat;
+  height: 350px;
+  width:350px;
+  background-size: 350px 350px;
+}
+
+.story-lead {
+  background: rgba(0,0,0,.5);
+  color:#fff;
+  width:350px;
+  margin-top:240px;
+  background-size: cover;
+  float: none;
+  padding:15px;
+  margin-right:0px;
+  margin-left:-15px
+}
